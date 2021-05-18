@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083529810955",
+    "project_id": "shs-player",
+    "storage_bucket": "shs-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083529810955:android:77728cb6944735c3f8e30e",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083529810955-odhin0dje0f0b2hk9krbor6sv71raulm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhwvyHyZ-YBAi3EoVJbA7dsDEzWrwfwEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083529810955-odhin0dje0f0b2hk9krbor6sv71raulm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
